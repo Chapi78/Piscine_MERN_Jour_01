@@ -1,6 +1,7 @@
 const config = {
     port: 4242,
-    ip: "localhost"
+    ip: "localhost",
+    mode: 'developement'
 }
 
 module.exports = config;

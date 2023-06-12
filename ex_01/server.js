@@ -8,5 +8,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(config.port, () => {
-    console.log('lerroy jenkinnnssss!!! ', config);
+    console.log('lerroy jenkinnnssss!!! ', config.port);
 });
